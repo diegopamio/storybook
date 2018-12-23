@@ -12,5 +12,5 @@
   "npmClient": "yarn",
   "useWorkspaces": true,
   "registry": "https://npm.thirdlove.com",
-  "version": "5.0.0-alpha.0"
+  "version": "4.2.0-alpha.6"
 }
