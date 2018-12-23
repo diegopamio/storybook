@@ -4,12 +4,13 @@
       "allowBranch": [
         "master",
         "next",
-        "release/*"
+        "release/*",
+        "tech/overhaul-ui"
       ]
     }
   },
   "npmClient": "yarn",
   "useWorkspaces": true,
-  "registry": "https://registry.npmjs.org",
-  "version": "4.2.0-alpha.6"
+  "registry": "https://npm.thirdlove.com",
+  "version": "5.0.0-alpha.0"
 }
